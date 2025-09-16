@@ -38,16 +38,7 @@
 							day: 'numeric'
 						})}
 					</p>
-					<p class="mb-4 line-clamp-2 text-gray-700 dark:text-gray-300">{post.excerpt}</p>
-					<div class="flex flex-wrap gap-2">
-						{#each post.tags as tag (tag)}
-							<span
-								class="rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-xs text-blue-400"
-							>
-								#{tag}
-							</span>
-						{/each}
-					</div>
+					<p class="mb-4 line-clamp-2 text-gray-700 dark:text-gray-300">{post.summary}</p>
 				</a>
 			</article>
 		{/each}

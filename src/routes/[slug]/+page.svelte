@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<title>{data.metadata.title} - Blog</title>
-	<meta name="description" content={data.metadata.excerpt} />
+	<meta name="description" content={data.metadata.summary} />
 </svelte:head>
 
 <article class="space-y-8">
@@ -38,16 +38,6 @@
 					day: 'numeric'
 				})}
 			</time>
-		</div>
-
-		<div class="flex flex-wrap gap-2">
-			{#each data.metadata.tags as tag (tag)}
-				<span
-					class="rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-xs text-blue-400"
-				>
-					#{tag}
-				</span>
-			{/each}
 		</div>
 	</header>
 
