@@ -24,7 +24,7 @@
 		{#each data.posts as post (post.slug)}
 			<article class="group">
 				<a
-					href={resolve(`/blog/${post.slug}`)}
+					href={resolve(`/${post.slug}`)}
 					class="block rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-6 transition-all duration-300 hover:border-blue-500/50 hover:shadow-lg hover:shadow-blue-500/20 dark:hover:shadow-blue-500/10"
 				>
 					<h2 class="mb-2 text-2xl font-semibold transition-colors group-hover:text-blue-400">
