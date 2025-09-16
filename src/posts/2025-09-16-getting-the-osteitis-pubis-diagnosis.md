@@ -6,7 +6,7 @@ author: Benno
 
 <small>October and November</small>
 
-# Getting injured
+# Getting Injured
 
 It's October 2025 and I'm having the time of my life playing a padel tournament. Playing matches and winning was great, until I realised that I could barely play anymore.
 
@@ -21,7 +21,7 @@ The pain was located somewhere near my left pubic bone and my sitting bone. The 
 
 <small>December and January</small>
 
-# Trying to rest and improve
+# Trying to Rest and Improve
 
 After about two weeks of rest I played another padel match, the first hour was okay, but I couldn't sustain the running and had to slow down. That's when I realised I was in serious trouble. This was about one month after first noticing the injury.
 
@@ -29,7 +29,7 @@ I went to a physiotherapist and took care of warming up well and doing mobility 
 
 <small>Februray, March, April and beginning of May</small>
 
-# Longer rest
+# Longer Rest
 
 Half februray I realized it wasn't healing after I aggitated it again during a light padel session. I decided to fully rest. March 4, my physiotherapist referred me to an orthopaedic surgeon. I went snowboarding for 4 days in the Austrian Alps, but didn't experience any aggitation. April 9 I got an X-ray and it was clean. No hip labral tear or anything out of the ordinary. I decided to go for a slow jogging run. It felt tough, but I also gained about 12 kilos in a year (more about that later) and hadn't done any running in about 10 months. My groin felt okay. A week later, I played some very light tennis which felt okay too. But another week later, the pain was back playing light tennis. I played carefully, but any sudden or explosive movement, however tiny, could've caused it to reappear.
 
@@ -57,7 +57,7 @@ I spoke to the sports doctor, July 31, and I was put on a 10 day treatment of an
 
 <small>August</small>
 
-# Pain reduces and physiotherapy
+# Pain Reduces and Physiotherapy
 
 During August I was experiencig mixed signals. The pain was mostly gone, but sometimes it flared up and I couldn't exactly pinpoint it. Because I was basically only walking and cycling I sometimes couldn't understand what was going on.
 
@@ -71,7 +71,7 @@ August 26, I went to a specialised fysiotherapist in Utrecht. I received 4 exerc
 
 Each time I did these exercises a little too intensively or explosively, I was aggitating my pubic bone.
 
-# About fitness
+# About Fitness
 
 In the past year, I started doing fitness. It's very likely fitness contributed to getting injured. Though I took it slow in the first couple of weeks of fitness, I did start to go heavier quite soon. Going to failure started to become the norm for things like leg presses.
 
@@ -80,3 +80,9 @@ In literature I can find references to examples where (American) football player
 It's also been a common occurence in the American Football League (AFL) scene. Most research does suggest that mechanical load on the pelvis has to be carefully managed. <sup>[source](https://pubmed.ncbi.nlm.nih.gov/19083712/)</sup>
 
 From September to March I gained about 0.5 kg a week. Resulting in a total weight gain of roughly 12 kilos in the span of 6 months. This might also have played a role in adding load when playing.
+
+# The Road Ahead
+
+Most people injured with OP seem to be looking at atleast 6 months of recovery (up to 2 years, or even athletes that seem to never recover). I feel like I've already done a lot of recovering in terms of getting the inflammation to calm down. However, it also seems that it flares up easily. My physiotherapist has me believing that I can start doing light jogging in about 8 weeks. And roughly 4-8 weeks after that I should be able to start twisting and turning. Then it should be a matter of time before I can do a super light tennis or padel session.
+
+But I don't want to become too optimistic. These past weeks of physiotherapy have already showed me that I should be very humble. Taking it easy, watching the signals and building it up slow, real slow. I'd love nothing more than to dream I will be back on the court in about 5 months or so. I want to!
