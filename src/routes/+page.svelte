@@ -5,6 +5,11 @@
 	export let data: PageData;
 </script>
 
+<svelte:head>
+	<title>Blog Posts</title>
+	<meta name="description" content="A collection of blog posts" />
+</svelte:head>
+
 <h1>Blog Posts</h1>
 
 <div>
