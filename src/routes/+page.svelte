@@ -31,7 +31,7 @@
 						{post.title}
 					</h2>
 					<p class="mb-3 text-sm text-gray-500">
-						By <span class="text-blue-400">{post.author}</span> •
+						{#if post.author}By <span class="text-blue-400">{post.author}</span> •{/if}
 						{new Date(post.date).toLocaleDateString('en-US', {
 							year: 'numeric',
 							month: 'long',

@@ -27,8 +27,10 @@
 		</h1>
 
 		<div class="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
-			<span>By <span class="text-blue-500 dark:text-blue-400">{data.metadata.author}</span></span>
-			<span>•</span>
+			{#if data.metadata.author}
+				<span>By <span class="text-blue-500 dark:text-blue-400">{data.metadata.author}</span></span>
+				<span>•</span>
+			{/if}
 			<time>
 				{new Date(data.metadata.date).toLocaleDateString('en-US', {
 					year: 'numeric',
