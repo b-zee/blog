@@ -17,7 +17,7 @@
 		>
 			Blog Posts
 		</h1>
-		<p class="text-gray-400">Thoughts, stories, and ideas</p>
+		<p class="text-gray-600 dark:text-gray-400">Thoughts, stories, and ideas</p>
 	</div>
 
 	<div class="space-y-6">
@@ -25,7 +25,7 @@
 			<article class="group">
 				<a
 					href={resolve(`/blog/${post.slug}`)}
-					class="block rounded-lg border border-gray-800 bg-gray-900 p-6 transition-all duration-300 hover:border-blue-500/50 hover:shadow-lg hover:shadow-blue-500/10"
+					class="block rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 p-6 transition-all duration-300 hover:border-blue-500/50 hover:shadow-lg hover:shadow-blue-500/20 dark:hover:shadow-blue-500/10"
 				>
 					<h2 class="mb-2 text-2xl font-semibold transition-colors group-hover:text-blue-400">
 						{post.title}
@@ -38,7 +38,7 @@
 							day: 'numeric'
 						})}
 					</p>
-					<p class="mb-4 line-clamp-2 text-gray-300">{post.excerpt}</p>
+					<p class="mb-4 line-clamp-2 text-gray-700 dark:text-gray-300">{post.excerpt}</p>
 					<div class="flex flex-wrap gap-2">
 						{#each post.tags as tag (tag)}
 							<span

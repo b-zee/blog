@@ -11,10 +11,10 @@
 </svelte:head>
 
 <article class="space-y-8">
-	<header class="space-y-4 border-b border-gray-800 pb-8">
+	<header class="space-y-4 border-b border-gray-200 dark:border-gray-800 pb-8">
 		<a
 			href={resolve('/')}
-			class="inline-flex items-center text-sm text-gray-400 transition-colors hover:text-blue-400"
+			class="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 transition-colors hover:text-blue-500 dark:hover:text-blue-400"
 		>
 			<span class="mr-2">&lt;</span>
 			Back to all posts
@@ -26,8 +26,8 @@
 			{data.metadata.title}
 		</h1>
 
-		<div class="flex items-center gap-4 text-sm text-gray-400">
-			<span>By <span class="text-blue-400">{data.metadata.author}</span></span>
+		<div class="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
+			<span>By <span class="text-blue-500 dark:text-blue-400">{data.metadata.author}</span></span>
 			<span>•</span>
 			<time>
 				{new Date(data.metadata.date).toLocaleDateString('en-US', {
@@ -50,7 +50,7 @@
 	</header>
 
 	<div
-		class="prose prose-lg max-w-none prose-invert prose-headings:text-gray-100 prose-p:text-gray-300 prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-100 prose-code:text-blue-400 prose-pre:border prose-pre:border-gray-800 prose-pre:bg-gray-900"
+		class="prose prose-lg max-w-none dark:prose-invert prose-headings:text-gray-900 dark:prose-headings:text-gray-100 prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900 dark:prose-strong:text-gray-100 prose-code:text-blue-600 dark:prose-code:text-blue-400 prose-pre:border prose-pre:border-gray-200 dark:prose-pre:border-gray-800 prose-pre:bg-gray-50 dark:prose-pre:bg-gray-900"
 	>
 		<svelte:component this={data.content} />
 	</div>
