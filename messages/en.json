@@ -1,5 +1,8 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"homeHeader": "Benno's Blog",
+	"homeSubHeader": "Just things",
 	"hello_world": "Hello, {name} from en!",
-	"theme": "Theme"
+	"theme": "Theme",
+	"by": "By"
 }

@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import { resolve } from '$app/paths';
 	import { getLocale } from "$lib/paraglide/runtime.js";
+	import { m } from '$lib/paraglide/messages';
 
 	export let data: PageData;
 </script>
@@ -29,7 +30,7 @@
 
 		<div class="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400">
 			{#if data.metadata.author}
-				<span>By <span class="text-blue-500 dark:text-blue-400">{data.metadata.author}</span></span>
+				<span>{m.by()} <span class="text-blue-500 dark:text-blue-400">{data.metadata.author}</span></span>
 				<span>•</span>
 			{/if}
 			<time>

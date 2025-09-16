@@ -2,6 +2,7 @@
 	import type { PageData } from './$types';
 	import { resolve } from '$app/paths';
 	import { getLocale } from "$lib/paraglide/runtime.js";
+	import { m } from '$lib/paraglide/messages';
 
 	export let data: PageData;
 </script>
@@ -16,9 +17,9 @@
 		<h1
 			class="bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-4xl font-bold text-transparent"
 		>
-			Blog Posts
+			{m.homeHeader()}
 		</h1>
-		<p class="text-gray-600 dark:text-gray-400">Thoughts, stories, and ideas</p>
+		<p class="text-gray-600 dark:text-gray-400">{m.homeSubHeader()}</p>
 	</div>
 
 	<div class="space-y-6">
@@ -32,7 +33,7 @@
 						{post.title}
 					</h2>
 					<p class="mb-3 text-sm text-gray-500">
-						{#if post.author}By <span class="text-blue-400">{post.author}</span> •{/if}
+						{#if post.author}{m.by()} <span class="text-blue-400">{post.author}</span> •{/if}
 						{new Date(post.date).toLocaleDateString(getLocale(), {
 							year: 'numeric',
 							month: 'long',
