@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 	import { resolve } from '$app/paths';
+	import { getLocale } from "$lib/paraglide/runtime.js";
 
 	export let data: PageData;
 </script>
@@ -32,7 +33,7 @@
 					</h2>
 					<p class="mb-3 text-sm text-gray-500">
 						{#if post.author}By <span class="text-blue-400">{post.author}</span> •{/if}
-						{new Date(post.date).toLocaleDateString('en-US', {
+						{new Date(post.date).toLocaleDateString(getLocale(), {
 							year: 'numeric',
 							month: 'long',
 							day: 'numeric'

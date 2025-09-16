@@ -1,6 +1,7 @@
 <script lang="ts">
 	import type { PageData } from './$types';
 	import { resolve } from '$app/paths';
+	import { getLocale } from "$lib/paraglide/runtime.js";
 
 	export let data: PageData;
 </script>
@@ -32,7 +33,7 @@
 				<span>•</span>
 			{/if}
 			<time>
-				{new Date(data.metadata.date).toLocaleDateString('en-US', {
+				{new Date(data.metadata.date).toLocaleDateString(getLocale(), {
 					year: 'numeric',
 					month: 'long',
 					day: 'numeric'
