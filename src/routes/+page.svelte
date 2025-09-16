@@ -1,2 +1,25 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+	import type { PageData } from './$types';
+	import { resolve } from '$app/paths';
+
+	export let data: PageData;
+</script>
+
+<h1>Blog Posts</h1>
+
+<div>
+	{#each data.posts as post (post.slug)}
+		<article>
+			<a href={resolve(`/blog/${post.slug}`)}>
+				<h2>{post.title}</h2>
+				<p>By {post.author} - {new Date(post.date).toLocaleDateString()}</p>
+				<p>{post.excerpt}</p>
+				<div>
+					{#each post.tags as tag (tag)}
+						<span>#{tag} </span>
+					{/each}
+				</div>
+			</a>
+		</article>
+	{/each}
+</div>
