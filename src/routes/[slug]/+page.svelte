@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { PageData } from './$types';
-	import { resolve } from '$app/paths';
+	import { localizeHref } from '$lib/paraglide/runtime.js';
 	import { getLocale } from "$lib/paraglide/runtime.js";
 	import { m } from '$lib/paraglide/messages';
 
@@ -15,7 +15,7 @@
 <article class="space-y-8">
 	<header class="space-y-4 border-b border-gray-200 dark:border-gray-800 pb-8">
 		<a
-			href={resolve('/')}
+			href={localizeHref('/')}
 			class="inline-flex items-center text-sm text-gray-600 dark:text-gray-400 transition-colors hover:text-blue-500 dark:hover:text-blue-400"
 		>
 			<span class="mr-2">&lt;</span>
