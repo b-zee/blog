@@ -6,6 +6,8 @@ author: Benno
 en: dealing-with-osteitis-pubis
 ---
 
+In dit verhaal kijk ik terug op het ontwikkelen van een serieuze liesblessure. In de hoop dat iemand er wat aan heeft en er misschien iets van kan leren.
+
 <small>Oktober en november</small>
 
 # Geblesseerd raken

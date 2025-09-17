@@ -6,6 +6,8 @@ author: Benno
 nl: omgaan-met-osteitis-pubis
 ---
 
+In this article I look back on the past year of developing a serious groin injury. In the hope someone in a similar situation finds some value in this and can learn from it.
+
 <small>October and November</small>
 
 # Getting Injured
