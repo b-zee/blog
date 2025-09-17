@@ -62,7 +62,7 @@ I spoke to the sports doctor, July 31, and I was put on a 10 day treatment of an
 
 During August I was experiencig mixed signals. The pain was mostly gone, but sometimes it flared up and I couldn't exactly pinpoint it. Because I was basically only walking and cycling I sometimes couldn't understand what was going on.
 
-August 26, I went to a specialised fysiotherapist in Utrecht. I received 4 exercises:
+August 26, I went to a specialised fysiotherapist in Utrecht. I received 5 exercises:
 
 - Tilting my pelvis back and forth while on my hands and knees
 - While ony hands and knees, tilt pelvis and tapping my shoulders with my hands
