@@ -3,6 +3,7 @@ date: 2025-09-17
 title: Omgaan met Osteitis Pubis (OP)
 summary: Mijn ervaring met Osteitis Pubis en de weg vooruit
 author: Benno
+en: dealing-with-osteitis-pubis
 ---
 
 <small>Oktober en november</small>

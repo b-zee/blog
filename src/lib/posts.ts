@@ -3,6 +3,8 @@ export interface RawPost {
 	title: string;
 	summary: string;
 	author?: string;
+	en?: string;
+	nl?: string;
 }
 
 export interface Post {
@@ -11,6 +13,8 @@ export interface Post {
 	summary: string;
 	author?: string;
 	date: string;
+	en?: string;
+	nl?: string;
 }
 
 export async function getPostsMetadata(): Promise<Post[]> {
@@ -44,6 +48,8 @@ export function parsePost(path: string, metadata: RawPost | undefined): Post | u
 		title: metadata.title,
 		summary: metadata.summary,
 		author: metadata.author,
-		date: metadata.date
+		date: metadata.date,
+		en: metadata.en,
+		nl: metadata.nl
 	};
 }

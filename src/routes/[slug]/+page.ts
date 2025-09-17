@@ -12,7 +12,6 @@ export const load: PageLoad = async ({ params }) => {
 			metadata?: RawPost;
 			default: Component;
 		};
-		console.log(post);
 	} catch {
 		// no-op
 	}

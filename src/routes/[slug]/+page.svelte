@@ -46,7 +46,14 @@
 				})}
 			</time>
 		</div>
+		{#if getLocale() === 'nl' && data.metadata.nl}
+			<small>(Dit artikel is ook te lezen <a class="text-blue-500 dark:text-blue-400" href="{resolve(`/${data.metadata.nl}`)}">in het Nederlands!</a>)</small>
+		{/if}
+		{#if getLocale() !== 'nl' && data.metadata.en}
+			<small>(This article is also <a class="text-blue-500 dark:text-blue-400" href="{resolve(`/${data.metadata.en}`)}">available in English!</a>)</small>
+		{/if}
 	</header>
+
 
 	<div
 		class="prose prose-lg max-w-none dark:prose-invert prose-headings:text-gray-900 dark:prose-headings:text-gray-100 prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline dark:prose-a:text-blue-400 prose-strong:text-gray-900 dark:prose-strong:text-gray-100 prose-code:text-blue-600 dark:prose-code:text-blue-400 prose-pre:border prose-pre:border-gray-200 prose-pre:bg-gray-50 dark:prose-pre:border-gray-800 dark:prose-pre:bg-gray-900"
