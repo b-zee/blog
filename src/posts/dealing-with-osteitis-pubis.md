@@ -12,7 +12,7 @@ In this article I look back on the past year of developing a serious groin injur
 
 # Getting Injured
 
-It's the 28th of October 2025 and I'm having the time of my life playing a padel tournament. Playing matches and winning was great, until I realised that I could barely play anymore.
+It's the 28th of October 2024 and I'm having the time of my life playing a padel tournament. Playing matches and winning was great, until I realised that I could barely play anymore.
 
 After the first match on Monday evening I was stiff around my pelvis, feeling my hips. I told my padel partner I was happy to have a few days off. I felt like an old man the next morning, but I didn't think much else of it. Next match, Friday evening, stiffness again. But this time much worse. The morning after I had another match, but I ended the match barely able to run.
 

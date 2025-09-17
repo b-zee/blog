@@ -12,7 +12,7 @@ In dit verhaal kijk ik terug op het ontwikkelen van een serieuze liesblessure. I
 
 # Geblesseerd raken
 
-Het is 28 oktober 2025 en ik heb de tijd van mijn leven tijdens een padeltoernooi. Wedstrijden spelen en winnen was geweldig, totdat ik me realiseerde dat ik nauwelijks nog kon spelen.
+Het is 28 oktober 2024 en ik heb de tijd van mijn leven tijdens een padeltoernooi. Wedstrijden spelen en winnen was geweldig, totdat ik me realiseerde dat ik nauwelijks nog kon spelen.
 
 Na de eerste wedstrijd op maandagavond was ik stijf rond mijn bekken en voelde ik mijn heupen. Ik zei tegen mijn padelpartner dat ik blij was een paar dagen rust te hebben. De volgende ochtend voelde ik me als een oude man, maar ik dacht er verder niet veel over na. Volgende wedstrijd, vrijdagavond: opnieuw stijfheid. Maar dit keer veel erger. De ochtend erna had ik weer een wedstrijd, maar ik eindigde de match terwijl ik nauwelijks kon rennen.
 
