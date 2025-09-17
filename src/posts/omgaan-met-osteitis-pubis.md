@@ -14,21 +14,21 @@ In dit verhaal kijk ik terug op het ontwikkelen van een serieuze liesblessure. I
 
 Het is 28 oktober 2024 en ik heb de tijd van mijn leven tijdens een padeltoernooi. Wedstrijden spelen en winnen was geweldig, totdat ik me realiseerde dat ik nauwelijks nog kon spelen.
 
-Na de eerste wedstrijd op maandagavond was ik stijf rond mijn bekken en voelde ik mijn heupen. Ik zei tegen mijn padelpartner dat ik blij was een paar dagen rust te hebben. De volgende ochtend voelde ik me als een oude man, maar ik dacht er verder niet veel over na. Volgende wedstrijd, vrijdagavond: opnieuw stijfheid. Maar dit keer veel erger. De ochtend erna had ik weer een wedstrijd, maar ik eindigde de match terwijl ik nauwelijks kon rennen.
+Na de eerste wedstrijd op maandagavond was ik stijf rond mijn bekken en voelde ik mijn heupen. Ik zei tegen mijn padelpartner dat ik blij was een paar dagen rust te hebben. De volgende ochtend voelde ik me als een oude man, maar ik dacht er verder niet veel over na. Volgende wedstrijd, vrijdagavond: opnieuw stijfheid. Maar dit keer veel erger. De ochtend erna had ik weer een wedstrijd, maar aan het eind van de wedstrijd besefte ik dat echt rennen er niet meer bij zat.
 
-Alsof dat nog niet genoeg was, had ik diezelfde middag nóg een wedstrijd en nam ik pijnstillers. Tijdens de wedstrijd voelde ik me verschrikkelijk, ik kon me nauwelijks nog bewegen zoals ik wilde. Ik had veel pijn in mijn lies. We verloren de wedstrijd en ik nam eindelijk rust.
+Alsof dat nog niet genoeg was, had ik diezelfde middag nóg een wedstrijd en besloot ik pijnstillers te nemen. Tijdens de wedstrijd voelde ik me verschrikkelijk, ik kon me nauwelijks nog bewegen zoals ik wilde. Ik had veel pijn in mijn lies. We verloren de wedstrijd en ik nam eindelijk rust. Achteraf is deze wedstrijd iets wat me lang is blijven achtervolgen. Ik had er niet aan moeten beginnen.
 
-Na een week rust dacht ik dat ik weer kon beginnen, maar tennis ging niet goed. Ik had tennislessen en speelde heel lichte sessies. Normaal speelde ik niet eens zo fanatiek, maar toch ervoer ik vaak dezelfde pijn in mijn bekken. Of ik nu één of twee weken rustte, het leek nooit genoeg.
+Na een week rust dacht ik dat ik weer kon beginnen, maar tennis ging niet goed. Ik had tennislessen en speelde heel lichte sessies. Ik speelde niet eens zo fanatiek, maar toch ervoer ik vaak dezelfde pijn in mijn bekken. Of ik nu één of twee weken rustte, het leek nooit genoeg.
 
-De pijn zat ergens bij mijn linker schaambeen en zitbot. Het gevoel straalde uit naar de rest van mijn bekken en mijn heupen voelden stijf.
+De pijn zat ergens tussen mijn linker schaambeen en zitbot. Het gevoel straalde uit naar de rest van mijn bekken en mijn heupen voelden stijf.
 
 <small>December en januari</small>
 
 # Proberen te rusten en verbeteren
 
-Na ongeveer twee weken rust speelde ik weer een padelwedstrijd. Het eerste uur ging goed, maar ik kon het tempo niet volhouden en moest gas terugnemen. Langzaam begon door te dringen ik dat ik serieus in de problemen zat. Dit was ongeveer een maand nadat ik de blessure voor het eerst had opgemerkt.
+Na ongeveer twee weken rust speelde ik weer een padelwedstrijd. Het eerste uur ging goed, maar ik wilde het tempo niet volhouden en moest gas terugnemen. Langzaam begon door te dringen ik dat ik serieus in de problemen zat. Dit was ongeveer een maand nadat ik de blessure voor het eerst had opgemerkt.
 
-Ik ging naar een fysiotherapeut en begon heel serieus met warming-ups en mobiliteitsoefeningen. Maar na ongeveer twee weken besloot ik dat ik echt rust nodig had. Rondom de kerstvakantie besloot ik ruim 3 weken niet te spelen. Geen tennisles, helemaal niets. Januari werd de maand van rustig opbouwen. Soms voelde ik een doffe pijn na verkeerde bewegingen. Bijvoorbeeld: ik kon niet explosief sprinten of snel draaien. Ik begon me als een vrachtschip te voelen: langzaam en gestaag bewegend. Mijn fysiotherapeut gaf me spierversterkende oefeningen voor de adductoren, zoals clamshells.
+Ik ging naar een fysiotherapeut en begon heel serieus met warming-ups en mobiliteitsoefeningen. Maar zelfs na rustige tennislessen had ik het idee dat het niet de goede kant op ging. Rondom de kerstvakantie besloot ik ruim 3 weken niet te spelen. Geen tennisles, helemaal niets. Januari werd de maand van rustig opbouwen. Soms voelde ik een doffe pijn na verkeerde bewegingen. Bijvoorbeeld: ik kon niet explosief sprinten of snel draaien. Ik begon me als een vrachtschip te voelen: langzaam en gestaag bewegend. Mijn fysiotherapeut gaf me spierversterkende oefeningen voor de adductoren, zoals clamshells.
 
 <small>Februari, maart, april en begin mei</small>
 
@@ -36,9 +36,9 @@ Ik ging naar een fysiotherapeut en begon heel serieus met warming-ups en mobilit
 
 Half februari realiseerde ik me dat het niet genas nadat ik het opnieuw had geïrriteerd tijdens een lichte padelsessie. Ik besloot volledig te rusten. Op 4 maart verwees mijn fysiotherapeut me door naar een orthopeed. Ik ging vier dagen snowboarden in de Oostenrijkse Alpen, maar ervoer geen irritatie. Op 9 april kreeg ik een röntgenfoto en die was schoon. Geen labrumscheur of iets anders bijzonders.
 
-Ik besloot een klein stukje langzaam te joggen, zo'n 20 minuten. Het voelde zwaar, maar ik was ook zo'n 12 kilo aangekomen in een half jaar (daarover later meer). Daarnaast had ik ongeveer tien maanden niet meer hardgelopen. Mijn lies voelde oké. Een week later speelde ik heel licht tennis, wat ook goed ging. Maar nog een week later kwam de pijn terug bij licht tennis. Ik speelde voorzichtig, maar elke plotselinge of explosieve beweging, hoe klein ook, kon ervoor zorgen dat de pijn terugkwam.
+Na 7 weken van rust besloot ik een klein stukje langzaam te joggen, zo'n 20 minuten. Het voelde zwaar, maar ik was ook zo'n 12 kilo aangekomen in een half jaar tijd (daarover later meer). Daarnaast had ik ongeveer tien maanden niet meer hardgelopen. Mijn lies voelde oké. Een week later speelde ik heel licht tennis, wat ook goed ging. Maar nog een week later kwam de pijn terug bij licht tennis. Ik speelde voorzichtig, maar elke plotselinge of explosieve beweging, hoe klein ook, kon ervoor zorgen dat de pijn terugkwam.
 
-De volgende weken waren mentaal zwaar. Ik dacht dat ik lang genoeg had gerust en het langzaam had opgebouwd. Vervolgens weer een paar weken rustig aan, maar toen maakte ik een grote fout. Ik plande een tennisdubbel. Tijdens de wedstrijd werd ik enthousiaster en toen de tegenstander een dropshot sloeg, sprintte ik naar het net. Maar op het moment van die explosieve sprint voelde het meteen verkeerd. Toen wist ik dat ik geen tennis of padel meer zou spelen tot ik volledig hersteld zou zijn.
+De volgende weken waren mentaal zwaar. Ik dacht dat ik lang genoeg had gerust en het langzaam had opgebouwd. Vervolgens weer een paar weken rustig aan, maar toen maakte ik een grote fout. Ik plande een vriendschappelijke tennisdubbel. Tijdens het spelen werd ik enthousiaster en toen de tegenstander een dropshot sloeg, sprintte ik naar het net. Maar op het moment van die explosieve sprint voelde het meteen verkeerd. Toen wist ik dat ik geen tennis of padel meer zou spelen tot ik volledig hersteld zou zijn.
 
 <small>Juni</small>
 
