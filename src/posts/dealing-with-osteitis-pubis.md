@@ -1,4 +1,5 @@
 ---
+date: 2025-09-17
 title: Dealing with Osteitis Pubis (OP)
 summary: My experience with Osteitis Pubis and the journey ahead
 author: Benno
@@ -17,7 +18,6 @@ If it wasn't enough, I had another match that same afternoon and I took painkill
 With a week rest I thought I could get going again, but tennis wasn't going great. I had tennis lessons and played very light tennis sessions. I didn't play that enthusiastically usually, yet often I experienced the same kind of pain in my pelvis. Whether it was after resting one week or two weeks, it didn't seem to be enough.
 
 The pain was located somewhere near my left pubic bone and my sitting bone. The feeling radiated through my pelvis and my hips felt stiff. It seemed that especially after making the tiniest spontaneous moves or twists that the pain was stinging the day after.
-
 
 <small>December and January</small>
 
@@ -53,7 +53,7 @@ I went on holidays for 2.5 weeks and thought it was a good opportunity to rest. 
 
 Then finally, at the end of July I was starting to feel more relieved.
 
-I spoke to the sports doctor, July 31, and I was put on a 10 day treatment of an NSAID. The pain did disappear during that period. 
+I spoke to the sports doctor, July 31, and I was put on a 10 day treatment of an NSAID. The pain did disappear during that period.
 
 <small>August</small>
 
@@ -63,11 +63,11 @@ During August I was experiencig mixed signals. The pain was mostly gone, but som
 
 August 26, I went to a specialised fysiotherapist in Utrecht. I received 4 exercises:
 
- - Tilting my pelvis back and forth while on my hands and knees
- - While ony hands and knees, tilt pelvis and tapping my shoulders with my hands
- - Glute bridge
- - Clamshell
- - Side-lying hip abduction
+- Tilting my pelvis back and forth while on my hands and knees
+- While ony hands and knees, tilt pelvis and tapping my shoulders with my hands
+- Glute bridge
+- Clamshell
+- Side-lying hip abduction
 
 Each time I did these exercises a little too intensively or explosively, I was aggitating my pubic bone.
 

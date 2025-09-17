@@ -4,5 +4,6 @@
 	"homeSubHeader": "Just things",
 	"hello_world": "Hello, {name} from en!",
 	"theme": "Theme",
-	"by": "By"
+	"by": "By",
+	"backToAllPosts": "Back to all posts"
 }

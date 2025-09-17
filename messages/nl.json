@@ -4,5 +4,6 @@
 	"homeSubHeader": "Zomaar wat",
 	"hello_world": "Hello, {name} from nl!",
 	"theme": "Thema",
-	"by": "Door"
+	"by": "Door",
+	"backToAllPosts": "Terug naar alle berichten"
 }

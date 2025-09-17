@@ -6,11 +6,11 @@ type Theme = 'dark' | 'light' | 'system';
 // Return saved preference, else return 'system'.
 function loadTheme(): Theme {
 	let saved;
-    try {
+	try {
 		saved = localStorage.getItem('theme');
-    } catch {
+	} catch {
 		return 'system';
-    }
+	}
 
 	if (saved === 'dark' || saved === 'light') {
 		return saved;
@@ -58,7 +58,7 @@ function createThemeStore() {
 			set(theme);
 		},
 		toggle: () => {
-			update(current => {
+			update((current) => {
 				const resolved = resolveTheme(current);
 				const newTheme = resolved === 'dark' ? 'light' : 'dark';
 				if (browser) {

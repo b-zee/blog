@@ -1,7 +1,8 @@
 ---
-title: Omgaan met Osteitis Pubis (OP)  
-summary: Mijn ervaring met Osteitis Pubis en de weg vooruit  
-author: Benno  
+date: 2025-09-17
+title: Omgaan met Osteitis Pubis (OP)
+summary: Mijn ervaring met Osteitis Pubis en de weg vooruit
+author: Benno
 ---
 
 <small>Oktober en november</small>
@@ -62,11 +63,11 @@ In augustus ervoer ik gemengde signalen. De pijn was grotendeels weg, maar soms 
 
 Op 26 augustus ging ik naar een gespecialiseerde fysiotherapeut in Utrecht. Ik kreeg vier oefeningen:
 
- - Mijn bekken voor- en achterover kantelen terwijl ik op handen en knieën zat  
- - Op handen en knieën het bekken kantelen en met mijn handen mijn schouders aantikken  
- - Glute bridge  
- - Clamshell  
- - Zijligging heupabductie
+- Mijn bekken voor- en achterover kantelen terwijl ik op handen en knieën zat
+- Op handen en knieën het bekken kantelen en met mijn handen mijn schouders aantikken
+- Glute bridge
+- Clamshell
+- Zijligging heupabductie
 
 Elke keer dat ik deze oefeningen te intensief of te explosief deed, irriteerde ik mijn schaambeen opnieuw.
 
